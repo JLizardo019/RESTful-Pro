@@ -1,0 +1,32 @@
+/*body{
+    
+    
+}*/
+
+.box {
+    width:10%;
+    height:70%;
+    padding: 1%;
+    /* margin-left: 1%; */
+    /* margin-right: 0.5%; */ 
+}
+.box:not(:first-child){
+    margin-left: 1%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.row{
+   /* display: flex; */
+   /* margin: auto; */
+   text-align: center;
+   margin-bottom: 1%;
+}
+/* main{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    align-content: space-between;
+} */
